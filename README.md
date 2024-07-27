@@ -8,7 +8,7 @@
 - [ ] Clientes
 	- [ ] identidade visual
 		- [x] nome
-		- [ ] logo
+		- [x] logo
 		- [x] paleta de cor
   			- [x] ![image](https://github.com/user-attachments/assets/875ba808-8aac-4545-bc1e-27b8b1ecf212)
 
