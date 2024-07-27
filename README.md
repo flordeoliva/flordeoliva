@@ -8,12 +8,20 @@
 - [ ] Clientes
 	- [x] identidade visual
 		- [x] nome
+		- [ ] Embalagens
+			- [ ] Caixa de papelão
+  			- [ ] Sacola
+     			- [ ] Sacola para entrega
+			- [ ] Papel seda ou carimbo
+   			- [ ] Cartão de agradecimento
+      			- [ ] Figurinhas/Stickers
+      			- [ ] Tags
+			- [ ] Etiqueta de preço
 		- [x] logo
   			- [x] ![logo1](https://github.com/user-attachments/assets/903af567-2b2c-4b98-b82e-b5476f67cd2a)
 			- [x] ![logo2](https://github.com/user-attachments/assets/46ab488e-2971-4c50-b11e-a97cf8210189)
 		- [x] paleta de cor
   			- [x] ![image](https://github.com/user-attachments/assets/875ba808-8aac-4545-bc1e-27b8b1ecf212)
-
 - [ ] Canais de venda
 	- [ ] instagram
 		- [ ] foto de perfil
@@ -22,3 +30,5 @@
 	- [ ] WhatsApp
  		- [ ] catalago
    	- [ ] site
+   	- [ ] Presencial
+   		- [ ] Faculdade 
