@@ -6,7 +6,7 @@
 	- [ ] Controle de caixa
 		 - [ ] precificação
 - [ ] Clientes
-	- [ ] identidade visual
+	- [x] identidade visual
 		- [x] nome
 		- [x] logo
   			- [x] ![logo1](https://github.com/user-attachments/assets/903af567-2b2c-4b98-b82e-b5476f67cd2a)
