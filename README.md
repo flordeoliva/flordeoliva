@@ -1,7 +1,7 @@
 ## Checklist de açoes de negócios
 
 - [ ] Roupas
-	- [ ] Estoque
+	- [x] Estoque
  		- [ ] fornecedores
 	- [ ] Controle de caixa
 		 - [ ] precificação
