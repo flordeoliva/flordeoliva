@@ -20,6 +20,7 @@
 		- [x] logo
   			- [x] ![logo1](https://github.com/user-attachments/assets/903af567-2b2c-4b98-b82e-b5476f67cd2a)
 			- [x] ![logo2](https://github.com/user-attachments/assets/46ab488e-2971-4c50-b11e-a97cf8210189)
+    			- [x] ![logo](https://github.com/user-attachments/assets/b1e2b71f-f43e-406c-8ff7-22921a156d83)
 		- [x] paleta de cor
   			- [x] ![image](https://github.com/user-attachments/assets/875ba808-8aac-4545-bc1e-27b8b1ecf212)
 - [ ] Canais de venda
